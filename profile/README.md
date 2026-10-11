@@ -20,7 +20,7 @@ Reina_Sakiria の AI しばきのサイドプロジェクトってわけ
 
 - [x] TTY を HMD に
 - [x] OpenXR Runtime の動作
-- [ ] 実用可能レベルの 3DoF HMD 化
+- [x] 実用可能レベルの 3DoF HMD 化
 - [ ] ライトハウスとの統合を行い 6DoF HMD 化
 - [ ] ケースやバッテリー、無線を整えハードウェアの整備
 - [ ] Reina_Sakiria 環境での本番導入&運用
